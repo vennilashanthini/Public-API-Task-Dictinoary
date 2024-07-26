@@ -2,7 +2,7 @@ const container = document.createElement("div");
 container.className = "container-fluid";
 
 const img = document.createElement("img");
-img.setAttribute("src","images/dic1.jpg",{"class":"img-fluid"});
+img.setAttribute("src","dic1.jpg",{"class":"img-fluid"});
 document.body.appendChild(img);
 
 const head = document.createElement("h1");
